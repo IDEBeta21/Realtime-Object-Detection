@@ -1,3 +1,7 @@
+## How it works
+
+The application will scan the camera and output that an employee is present when it detects a person. The application will also output a different message if the employee is detected with a phone. The application's idea came from the scenarios where an employee is not permited by his/her company to use their mobile devices during work hours.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
