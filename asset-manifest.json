@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Realtime-Object-Detection/static/css/main.5442ece6.chunk.css",
+    "main.js": "/Realtime-Object-Detection/static/js/main.cac281c5.chunk.js",
+    "main.js.map": "/Realtime-Object-Detection/static/js/main.cac281c5.chunk.js.map",
+    "runtime-main.js": "/Realtime-Object-Detection/static/js/runtime-main.c2e66b59.js",
+    "runtime-main.js.map": "/Realtime-Object-Detection/static/js/runtime-main.c2e66b59.js.map",
+    "static/js/2.ff0f89ba.chunk.js": "/Realtime-Object-Detection/static/js/2.ff0f89ba.chunk.js",
+    "static/js/2.ff0f89ba.chunk.js.map": "/Realtime-Object-Detection/static/js/2.ff0f89ba.chunk.js.map",
+    "index.html": "/Realtime-Object-Detection/index.html",
+    "precache-manifest.8a40e43a99001ddb8ce7e59dd5277ead.js": "/Realtime-Object-Detection/precache-manifest.8a40e43a99001ddb8ce7e59dd5277ead.js",
+    "service-worker.js": "/Realtime-Object-Detection/service-worker.js",
+    "static/css/main.5442ece6.chunk.css.map": "/Realtime-Object-Detection/static/css/main.5442ece6.chunk.css.map",
+    "static/js/2.ff0f89ba.chunk.js.LICENSE.txt": "/Realtime-Object-Detection/static/js/2.ff0f89ba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2e66b59.js",
+    "static/js/2.ff0f89ba.chunk.js",
+    "static/css/main.5442ece6.chunk.css",
+    "static/js/main.cac281c5.chunk.js"
+  ]
+}
